@@ -69,7 +69,7 @@ Before using a release based workflow for a larger release, let's create a tag a
 </details>
 
 <!--Step 2-->
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 ### Release management
@@ -148,7 +148,7 @@ Let's make a new pull request comparing the `release-v1.0` branch to the `main` 
 </details>
 
 <!--Step 4-->
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Generate release notes and merge</h2></summary>
 
 ### Automatically generated release notes
